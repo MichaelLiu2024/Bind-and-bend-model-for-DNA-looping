@@ -1,5 +1,5 @@
 # Bind-and-bend model for DNA looping
 
-MATLAB code and experimental data to accompany the article "Bind-and-bend model for DNA looping" by Liu et al.
+MATLAB code and experimental data to accompany the article "Bind-and-bend model for DNA looping" by ML Liu, DW Oo, RB McMillan, and AR Carter.
 
-Please navigate to "Charge-Assisted Looping Model 8_31_2023/Charge-Assisted Looping Model 8_31_2023/Experimental Fits" to begin.
+Please navigate to "[TODO]" to begin.
